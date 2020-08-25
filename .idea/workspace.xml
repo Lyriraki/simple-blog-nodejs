@@ -38,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598089126937</updated>
       <workItem from="1598089128892" duration="1128000" />
-      <workItem from="1598363470559" duration="281000" />
+      <workItem from="1598363470559" duration="732000" />
     </task>
     <servers />
   </component>
@@ -50,6 +50,10 @@
       <screen x="0" y="23" width="1280" height="723" />
     </state>
     <state x="103" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1598089405378" />
+    <state x="388" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598364301940">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="388" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.728@0.23.1280.728" timestamp="1598364301940" />
     <state x="329" y="24" width="900" height="722" key="SettingsEditor" timestamp="1598091293945">
       <screen x="0" y="23" width="1280" height="724" />
     </state>

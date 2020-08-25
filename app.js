@@ -10,7 +10,7 @@ mongoose.connect(dbURI, {
         useUnifiedTopology: true,
         useNewUrlParser: true
     })
-    .then(() => app.listen(3000))
+    .then(() => app.listen(process.env.PORT || 5000))
     .then(() => console.log('Connetc to Database Atlas'))
     .catch((error) => console.log('Error Contect : ', error));
 // Registering view engine, secara otomatis jika penulisannya seperti di bawah, maka akan menggunakan folder views sebagai default
