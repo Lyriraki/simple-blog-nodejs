@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ea7f3d2-9760-4421-9069-58e7a7d39b12" name="Default Changelist" comment="" />
+    <list default="true" id="6ea7f3d2-9760-4421-9069-58e7a7d39b12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1gRtF3Ul9OLF7FANiSGjYoA4OCa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +33,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.22629969" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,7 +45,9 @@
       <option name="presentableId" value="Default" />
       <updated>1598089126937</updated>
       <workItem from="1598089128892" duration="1128000" />
-      <workItem from="1598363470559" duration="1036000" />
+      <workItem from="1598363470559" duration="1183000" />
+      <workItem from="1598367632001" duration="414000" />
+      <workItem from="1598389101369" duration="189000" />
     </task>
     <servers />
   </component>
@@ -54,14 +63,19 @@
       <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="388" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.728@0.23.1280.728" timestamp="1598364301940" />
-    <state x="329" y="24" width="900" height="722" key="SettingsEditor" timestamp="1598091293945">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="329" y="24" width="900" height="722" key="SettingsEditor" timestamp="1598373872064">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="329" y="24" width="900" height="722" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1598089372132" />
     <state x="329" y="24" key="SettingsEditor/0.23.1280.724@0.23.1280.724" timestamp="1598091293945" />
+    <state x="329" y="24" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1598373872064" />
     <state x="304" y="172" key="run.anything.popup" timestamp="1598363527898">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="304" y="172" key="run.anything.popup/0.23.1280.728@0.23.1280.728" timestamp="1598363527898" />
+    <state x="303" y="72" key="search.everywhere.popup" timestamp="1598373703025">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="303" y="72" key="search.everywhere.popup/0.23.1280.728@0.23.1280.728" timestamp="1598373703025" />
   </component>
 </project>
