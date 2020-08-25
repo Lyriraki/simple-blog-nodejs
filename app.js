@@ -5,7 +5,7 @@ const blogRoutes = require('./routes/blogRoutes');
 
 const app = express();
 
-const dbURI = 'mongodb://lyriraki:test123@nodetuts-shard-00-00.jukaw.mongodb.net:27017,nodetuts-shard-00-01.jukaw.mongodb.net:27017,nodetuts-shard-00-02.jukaw.mongodb.net:27017/node-tuts?ssl=true&replicaSet=atlas-t2mkha-shard-0&authSource=admin&retryWrites=true&w=majority'
+const dbURI = 'mongodb://{Username}:{Password}@{Databasename}-shard-00-00.jukaw.mongodb.net:27017,{Databasename}-shard-00-01.jukaw.mongodb.net:27017,{Databasename}-shard-00-02.jukaw.mongodb.net:27017/node-tuts?ssl=true&replicaSet=atlas-t2mkha-shard-0&authSource=admin&retryWrites=true&w=majority'
 mongoose.connect(dbURI, {
         useUnifiedTopology: true,
         useNewUrlParser: true
